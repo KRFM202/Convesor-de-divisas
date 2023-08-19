@@ -5,6 +5,7 @@ Bienvenido al proyecto **Conversor de Divisas y Temperatura**. Este proyecto es 
 ## Características
 
 - Conversión de Divisas: El conversor permite convertir entre varias monedas, incluyendo USD, Euro, Libras Esterlinas, Wones, Yenes y Pesos Mexicanos.
+  **Nota:** La tasa de cambio de cada moneda está fija en este proyecto básico.
 - Conversión de Temperatura: Además de la conversión de divisas, el proyecto también ofrece la conversión de temperaturas entre Celsius, Kelvin y Fahrenheit.
 
 ## Tecnologías Utilizadas
