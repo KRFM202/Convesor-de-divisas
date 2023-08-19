@@ -36,4 +36,4 @@ Este proyecto está bajo la Licencia [MIT](LICENSE).
 
 ---
 
-¡Gracias por tu interés en el Conversor de Divisas y Temperatura! Esperamos que encuentres útiles estas herramientas para tus necesidades de conversión. Si tienes alguna pregunta o problema, no dudes en abrir un issue en este repositorio.
+¡Gracias por tu interés en el Conversor de Divisas y Temperatura! Espero que encuentres útiles estas herramientas para tus necesidades de conversión. Si tienes alguna pregunta o problema, no dudes en abrir un issue en este repositorio.
