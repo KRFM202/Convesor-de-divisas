@@ -1,6 +1,6 @@
 # Conversor de Divisas y Temperatura
 
-Bienvenido al proyecto **Conversor de Divisas y Temperatura**. Este proyecto es parte del Challenge Alura Latam y tiene como objetivo proporcionar herramientas para convertir divisas y temperaturas en varias unidades. 
+Bienvenido al proyecto **Conversor de Divisas y Temperatura**. Este proyecto es parte del Challenge Alura Latam desarrollado por @KRFM202 y tiene como objetivo proporcionar herramientas para convertir divisas y temperaturas en varias unidades. 
 
 ## Características
 
@@ -27,7 +27,7 @@ Bienvenido al proyecto **Conversor de Divisas y Temperatura**. Este proyecto es 
 
 ## Créditos
 
-Este proyecto fue desarrollado como parte del Challenge Alura Latam.
+Este proyecto fue desarrollado por @KRFM202 como parte del Challenge Alura Latam.
 
 ## Licencia
 
